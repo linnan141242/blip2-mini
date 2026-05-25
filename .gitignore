@@ -1,0 +1,8 @@
+my_mini_data/
+Images/
+*.pth
+*.zip
+captions.txt
+generate.txt
+train.txt
+__pycache__/
