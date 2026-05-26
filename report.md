@@ -116,7 +116,7 @@ Image → Frozen Vision Encoder → Mini Q-Former → Projection Layer → Froze
 
 Loss 下降约 92%。
 
-
+![Loss曲线](loss_curve.png)
 
 \## 7. 生成结果展示
 
@@ -200,5 +200,5 @@ AI 在以下环节提供了帮助：
 
 见下方
 
-
+![生成结果截图](generate_result.png)
 
